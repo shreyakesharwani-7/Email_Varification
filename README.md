@@ -60,7 +60,6 @@ Wrong email 5 (contains space, capital letter, or invalid character)
 **Shreya Kesharwani**
 🎓 B.Tech (2023–2027) @ AKTU
 📧 Email: [shreyakesharwani5524@gmail.com](mailto:shreyakesharwani5524@gmail.com)
-📱 Contact: 7054429293
 💻 GitHub: [shreyakesharwani-7](https://github.com/shreyakesharwani-7)
 💼 LinkedIn: [Shreya Kesharwani](https://www.linkedin.com/in/shreyakesharwani70/)
 🌐 GeeksforGeeks: [Profile](https://www.geeksforgeeks.org/user/shreyakesharwani/)
